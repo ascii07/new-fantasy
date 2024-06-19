@@ -66,10 +66,10 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>2. Usage of Website and Mobile Application</h2>
         <p style={styles.section}>
-          Users using the services offered by ASCII11fantasy.world or the ASCII11 Fantasy App, including Features, by participating in various contests and games organised on the platform (“Contests”) are bound to follow these Terms and Conditions, and all other rules and regulations defined by ASCII11 Fantasy.
+          Users using the services offered by winbuzzfantasy.world or the ASCII11 Fantasy App, including Features, by participating in various contests and games organised on the platform (“Contests”) are bound to follow these Terms and Conditions, and all other rules and regulations defined by ASCII11 Fantasy.
         </p>
         <p style={styles.section}>
-          ASCII11 Fantasy reserves the right to modify or change these Terms and Conditions, rules and regulations at any time by posting them on ASCII11fantasy.world. By using ASCII11 Fantasy services, Users agree to time-to-time amendments that may be made. Users will be informed of any amendments via email to their registered address or by posting notifications in their accounts. If a User disagrees or does not accept the amendments, they can indicate their non-acceptance within the defined time frame. If a user fails to do so, they will be deemed to have accepted the changes. In case of non-acceptance, ASCII11 Fantasy reserves the right to restrict the User from using its services and features.
+          ASCII11 Fantasy reserves the right to modify or change these Terms and Conditions, rules and regulations at any time by posting them on winbuzzfantasy.world. By using ASCII11 Fantasy services, Users agree to time-to-time amendments that may be made. Users will be informed of any amendments via email to their registered address or by posting notifications in their accounts. If a User disagrees or does not accept the amendments, they can indicate their non-acceptance within the defined time frame. If a user fails to do so, they will be deemed to have accepted the changes. In case of non-acceptance, ASCII11 Fantasy reserves the right to restrict the User from using its services and features.
         </p>
         <p style={styles.section}>
           Additional rules and regulations may apply to the various services offered as part of the features. If there are additional conditions that conflict with these Terms and Conditions, the additional conditions will take precedence.
@@ -80,12 +80,12 @@ const TermsAndConditions = () => {
         <p style={styles.section}>
           ASCII11 Fantasy may, at its discretion:
           <ul style={styles.list}>
-            <li>Restrict, suspend or terminate a User’s access to all or part of ASCII11fantasy.world or features of ASCII11 Fantasy.</li>
+            <li>Restrict, suspend or terminate a User’s access to all or part of winbuzzfantasy.world or features of ASCII11 Fantasy.</li>
             <li>Change, suspend or discontinue all or part of the features.</li>
             <li>Deactivate or delete a User’s account and related information and files.</li>
             <li>Reject, move or remove any material submitted by a User.</li>
-            <li>Move or remove any content available on ASCII11fantasy.world and ASCII11 Fantasy application.</li>
-            <li>Establish general practices and limits for the use of ASCII11fantasy.world and ASCII11 Fantasy application.</li>
+            <li>Move or remove any content available on winbuzzfantasy.world and ASCII11 Fantasy application.</li>
+            <li>Establish general practices and limits for the use of winbuzzfantasy.world and ASCII11 Fantasy application.</li>
             <li>Revise or add to the roster of players for selection in a Contest.</li>
             <li>Assign its rights and liabilities to another entity (after informing users via registered email).</li>
           </ul>
@@ -112,7 +112,7 @@ const TermsAndConditions = () => {
           Users transact with third parties, including payment providers and verification service providers, at their own risk. Users are solely responsible for reviewing the policies, terms and conditions of these third parties before conducting any transactions or availing of any services. By accepting the Terms and Conditions of ASCII11 Fantasy, users agree that ASCII11 Fantasy is not responsible for any damages or losses incurred as a result of any transactions, correspondence or related activities with third parties. Any questions, complaints or claims regarding third-party products or services should be directed to the relevant vendor.
         </p>
         <p style={styles.section}>
-          ASCII11fantasy.world and ASCII11 Fantasy application features content created and posted by both ASCII11 Fantasy and various third parties. ASCII11 Fantasy does not guarantee the accuracy, integrity or quality of the content created by third parties and such content should not be relied upon by users in connection with the use of the features provided by ASCII11 Fantasy or participation in any contests hosted on the platform.
+          winbuzzfantasy.world and ASCII11 Fantasy application features content created and posted by both ASCII11 Fantasy and various third parties. ASCII11 Fantasy does not guarantee the accuracy, integrity or quality of the content created by third parties and such content should not be relied upon by users in connection with the use of the features provided by ASCII11 Fantasy or participation in any contests hosted on the platform.
         </p>
 
         <h2 style={styles.subHeader}>4. Privacy Policy</h2>
@@ -627,7 +627,7 @@ const TermsAndConditions = () => {
         <p style={styles.section}>
           Grievance Redressal Officer:
           <br />Name: AYUSH JAIN
-          <br />Email: info@ASCII11fantasy.world
+          <br />Email: info@winbuzzzfantasy.world
           <br />Address: ASCII11 Fantasy Sports Pvt. Ltd., Accelerator Coworking Space, Ground Floor, MGF Metropolis Mall, Mehrauli-Gurgaon Rd, Gurugram, Haryana 122002
         </p>
         <p style={styles.section}>
